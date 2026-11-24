@@ -1,0 +1,16 @@
+{
+  "pressure_window_s": 8.0,
+  "open_rise_hpa": 30.0,
+  "opening_backshift_seconds": 4.0,
+  "reference_before_seconds": 1800.0,
+  "decision_after_seconds": 3600.0,
+  "channels": [
+    0,
+    1,
+    2
+  ],
+  "operation": "signed_abs_max",
+  "fruit_negative_threshold_pct": -24.0,
+  "meat_negative_threshold_pct": -3.0,
+  "meat_positive_threshold_pct": 5.0
+}

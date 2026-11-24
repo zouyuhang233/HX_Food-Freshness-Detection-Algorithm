@@ -1,0 +1,22 @@
+{
+  "median_seconds": 3,
+  "filter_tau_seconds": 60.0,
+  "alpha_hi": 0.055061498915463324,
+  "alpha_lo": 1.9341747603696706e-07,
+  "k": 167.75879243050042,
+  "x_c": 0.004409098597726572,
+  "pressure_window_s": 8.0,
+  "open_rise_hpa": 30.0,
+  "wait_after_open_seconds": 900.0,
+  "inference_sample_count": 30,
+  "channels": [
+    0,
+    1,
+    2
+  ],
+  "operation": "mean",
+  "lower_threshold_pct": 4.0,
+  "upper_threshold_pct": 14.5,
+  "rejection_half_width_pp": 0.5,
+  "trend_window_s": 120.0
+}
